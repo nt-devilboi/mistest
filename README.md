@@ -1,7 +1,3 @@
-# Mis — мини-проект медицинской информационной системы
-
-Данные в сидах синтетические.
-
 ## Схема
 
 ```mermaid
@@ -44,7 +40,6 @@ erDiagram
     }
 ```
 
-`DiseasePatient` генерирует EF Core из навигаций `Patient.Diseases` и `Disease.Patients`.
 
 `Sex`: `Unknown`, `Male`, `Female`
 
