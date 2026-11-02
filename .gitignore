@@ -1,0 +1,48 @@
+## Сборка
+bin/
+obj/
+artifacts/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+publish/
+*.publishsettings
+
+## Пользовательские файлы IDE
+*.user
+*.suo
+*.userprefs
+*.DotSettings.user
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## Visual Studio
+.vs/
+*.vsp
+*.vspx
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+
+## Логи и временное
+*.log
+*.tmp
+*.cache
+
+## Тесты и покрытие
+TestResults/
+coverage*.json
+coverage*.xml
+*.coverage
+
+## Aspire
+.aspire/
+
+## ОС
+.DS_Store
+Thumbs.db

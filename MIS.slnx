@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MIS.Core/MIS.Core.csproj" />
+  <Project Path="MIS.Infrastructure/MIS.Infrastructure.csproj" />
+  <Project Path="AppHost/AppHost.csproj" />
+  <Project Path="MIS.Api/MIS.Api.csproj" />
+</Solution>
